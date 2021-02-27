@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`this is working head 1`] = `
+<div>
+  <form>
+    <input
+      type="text"
+    />
+    <input
+      type="password"
+    />
+    <input
+      type="text"
+    />
+  </form>
+</div>
+`;
