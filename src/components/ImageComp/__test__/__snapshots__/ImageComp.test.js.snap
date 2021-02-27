@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`this is working head 1`] = `
+<div>
+  <img
+    alt="car"
+    src="Untitled.png"
+  />
+</div>
+`;
